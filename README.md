@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AuthFlow — Angular Auth App
 
 A full-featured Angular 17 authentication app with:
@@ -90,3 +91,7 @@ src/
 - **RxJS** — BehaviorSubject for reactive auth state
 - **SCSS** — Component-level styles
 - **localStorage** — Persistent user storage (no backend)
+=======
+# -Angular-application
+i build this application for my college practical
+>>>>>>> 85775cc25b1e108e3618e9c0bc0fb0da7747169c
